@@ -1,5 +1,5 @@
 export const SITE_NAME = "Tatek Gym";
-export const SITE_BASE_URL = "https://tatekgym.com";
+export const SITE_BASE_URL = "https://tatek.brightfitnessgym.com";
 
 export const BUSINESS_LOCATION_LINE = "Hawassa City Center";
 
