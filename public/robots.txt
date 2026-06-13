@@ -1,0 +1,10 @@
+# Robots.txt for Fitlab Gym and Spa
+
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /api/
+
+Crawl-delay: 1
+
+Sitemap: https://fitlabgymandspa.com/sitemap.xml
