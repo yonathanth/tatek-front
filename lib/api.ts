@@ -1,5 +1,5 @@
 // API Client with typed responses for Gym API
-const API_URL = process.env.NEXT_PUBLIC_API_URL || 'api.tatekgym.com';
+const API_URL = process.env.NEXT_PUBLIC_API_URL || 'tatek.brightfitnessgym.com';
 
 // Types based on gym-api DTOs
 export interface AdminProfile {
